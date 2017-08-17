@@ -1,0 +1,84 @@
+﻿Alcohol 120% 
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Год/Дата Выпуска: 2015
+Разработчик: © 2002-2015 All Rights Reserved. Alcohol Soft. http://www.alcohol-soft.com/
+Разрядность: 32bit+64bit
+Язык интерфейса: Мультиязычный (русский присутствует)
+Таблэтка: Присутствует
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Системные требования: http://trial.alcohol-soft.com/en/system_requirements.php
+▪ Intel/AMD based PC with Windows 2000, XP, Server 2003, Vista, 7, 8 or 10 (x86/x64) operating system.
+▪ 32MB (or more) of RAM
+▪ Internet connection
+▪ 10GB (or more) hard disk (a 74 minute CD image requires 650-700MB)
+▪ One or more bus-mastering SCSI and/or ATAPI buses
+▪ One or more CD-ROM/DVD-ROM drives. You can use a CD/DVD recorder as a reader with sufficient hard disk space.
+▪ One or more CD recorders (if you install more than 2 CD recorders, 700MHz CPU and 128MB RAM is recommended). Only required for Alcohol 120% (http://shop.alcohol-soft.com/en/about_120.php?area=demo)
+▪ One or more DVD recorders (if you want to burn DVD format). Only required for Alcohol 120% (http://shop.alcohol-soft.com/en/about_120.php?area=demo)
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Alcohol 120% - эмулятор CD/DVD-дисков. Программа создает на жестком диске ПК пользователя образ диска с данными, аудио или видео информацией, а затем предоставляет доступ к этим данным другим программам так, словно искомый диск находится в приводе. Alcohol 120% поддерживает работу со многими форматами CD/DVD, имеет возможность работы с 31 образом одновременно, обеспечивает несоизмеримо большую (по сравнению с CD) скорость передачи данных между приложением и образом диска. Alcohol 120% может работать с большинством известных файлов-образов, эмулирует работу 200х скоростного CD-ROM, есть поиск образов, еще одна положительная черта - программа может копировать защищенные диски, обходить защиту SafeDisc, StarForce (частично), Securom и LaserLock.
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Основные возможности:
+▪ Создание до 31 виртуального привода
+▪ Создание образов CD, DVD и Blu-ray дисков
+▪ Поддержка форматов образов MDS, CCD, BIN/CUE, ISO, CDI, BWT, B5T, B6T, BWI, BWS, BWA, ISZ
+▪ Прямое копирование с диска на диск
+▪ Стирание информации с CD-RW и DVD-RW дисков
+▪ Поиск файлов-образов дисков
+▪ Экспорт и импорт списков файлов-образов
+▪ Возможность сохранения виртуальных дисков на рабочем сервере локальной сети и их использование на множестве компьютеров
+▪ Блокировка и защита ценных образов паролем
+▪ Монтирование образов с защитой от копирования
+▪ И многое другое
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+FAQ http://support.alcohol-soft.com/en/knowledgebase.php
+Manuals http://support.alcohol-soft.com/en/viewmanuals.php
+SUPPORTED DRIVES http://support.alcohol-soft.com/en/drivesupport.php
+Alcohol 120% / 52% Manual http://support.alcohol-soft.com/en/documentation/english/index.html
+Последняя версия SPTD-драйвера http://www.duplexsecure.com/ru/downloads/
+ПОДДЕРЖИВАЕМЫЕ ДИСКИ http://support.alcohol-soft.com/en/drivesupport.php
+Alcohol 120% / VIDEO http://www.youtube.com/watch?v=xYQmTmz6bzE&feature=player_embedded
+P.S.
+(для полноценной работы с форумом нужна регистрация, которая открыта только для легальных владельцев копии)
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Что нового в версии:
+http://support.alcohol-soft.com/en/viewchangelog.php
+----------------------
+2015-12-30
+2.0.3.8426
+
+▪ UPDATE SPTD 2.08 
+
+
+▪ FIX Missing data type
+▪ FIX mmnor bugs fixed
+▪ FIX Update issues for some Windows 10 users
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+http://forum.alcohol-soft.com/index.php?/topic/31471-uninstalling-full-of-the-alcohol-120-v2012033-retail/#entry148566
+------------------------------------
+Manualy uninstall Alcohol:
+To Manualy uninstall Alcohol
+
+1.Please download and run the following tool:
+http://forum.alcohol-soft.com/files/sptdremov.exe
+After removing SPTD from your system and restarting Windows as requested by
+the tool (you may need to reboot twice in some cases, the tool will tell
+you)
+
+2.
+Delete registry key for 32bit HKEY_LOCAL_MACHINE\SOFTWARE\Alcohol Soft
+
+For x64 HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\Alcohol Soft
+
+3.
+Using the Alcohol or Device Manager of Windows to remove the added Virtual
+Drives
+
+4.
+Delete the installed folder of Alcohol under Programs.
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Последняя версия SPTD-драйвера - http://www.duplexsecure.com/ru/downloads/
+На всякий:
+Если кто хочет к примеру обновить SPTD-драйвер достаточно сделать следующее
+Запустите установщик SPTD. Он предложит обновить старую версию или удалить самого себя.
+Официальный Дистрибутив Alcohol (в смысле что в раздаче) уже содержит последнюю версию SPTD. Так что ничего дополнительно устанавливать не нужно.

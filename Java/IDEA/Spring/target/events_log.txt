@@ -1,0 +1,4 @@
+0 31.07.2017 17:01:24 Some event for user John Smith
+2 31.07.2017 17:01:24 Some event for user 3
+0 31.07.2017 17:06:19 Some event for user John Smith
+2 31.07.2017 17:06:19 Some event for user 3
